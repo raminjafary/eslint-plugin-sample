@@ -1,0 +1,16 @@
+{
+  "name": "eslint-plugin-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "mocha ./tests/**/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "espree": "^9.4.0",
+    "mocha": "^10.0.0"
+  }
+}

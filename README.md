@@ -1,0 +1,1 @@
+## Eslint plugin sample repo
